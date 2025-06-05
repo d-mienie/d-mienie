@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Dante Mienie
-- 👀 I’m currently studying Computer Science with a minor in Statistics and Data Science from the University of Arizona
+- 👀 Graduated with a BSc Computer Science with a minor in Statistics and Data Science from the University of Arizona
 - 🌱 I’m currently learning a lot about AI and different coding languages
 - ⚡ Fun fact: I am from South Africa!
 - Here are some of my projects!
